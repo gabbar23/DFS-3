@@ -1,3 +1,6 @@
+
+Time Complexity (TC): O(log n)
+Space Complexity (SC): O(log n)
 class Solution {
     int[] start = new int[] {0, 1, 6, 8, 9};
 
